@@ -34,7 +34,5 @@ function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | nul
         curr = curr.next;
     }
 
-    console.log(result)
-
     return result.next
 };
