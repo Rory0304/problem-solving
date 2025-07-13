@@ -7,11 +7,11 @@ function findLHS(nums: number[]): number {
     }
 
     const keys = hashMap.keys();
-    let maxLength = 0;
+    let maxLength = 0
 
     for(let key of keys){
         if(hashMap.get(key+1)){
-            maxLength = Math.max(hashMap.get(key) + hashMap.get(key+1))
+            maxLength = Math.max(hashMap.get(key) + hashMap.get(key+1), maxLength)
         }
     }
 
