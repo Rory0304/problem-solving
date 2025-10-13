@@ -10,10 +10,15 @@ class TimeMap {
             this.map.set(key, [[value, timestamp]])
         }
         else{
-            const prev = this.map.get(key);
-            let newArr: Array<[string, number]> = [...prev, [value, timestamp]]
-            newArr.sort((a,b) => b[1] - a[1]);
-            this.map.set(key, newArr)
+            const values = this.map.get(key);            
+            const index = this.binarySearch(values, timestamp);
+
+            if(index < values.length && values[index][1] === timestamp){
+                values[index] = [value, timestamp]
+            }
+            else {
+                values.splice(index, 0, [value, timestamp]) // remove and insert
+            }
         }
     }
 
@@ -21,18 +26,26 @@ class TimeMap {
         if(!this.map.get(key)) return ""
         
         const values = this.map.get(key);
+        const index = this.binarySearch(values, timestamp);
 
-        let timestamp_prev;
+        return  index > 0 ? values[index-1]?.[0] : ''
+    }
 
-        for(let [value, pt] of values){
-            if(pt <= timestamp){
-                timestamp_prev = [value, pt]
-                break
+    private binarySearch(timestamps: Array<[string, number]>, target: number): number {
+        let left = 0
+        let right = timestamps.length;
+
+        while(left < right){
+            let mid = Math.floor((left + right) / 2)
+            if(timestamps[mid][1] <= target){
+                left = mid + 1
+            }
+            else {
+                right = mid
             }
         }
 
-
-        return timestamp_prev?.[0] ?? ""
+        return left
     }
 }
 
