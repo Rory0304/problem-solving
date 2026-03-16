@@ -12,10 +12,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0729-my-calendar-i](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0729-my-calendar-i](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +39,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0729-my-calendar-i](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0729-my-calendar-i](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0729-my-calendar-i](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
 <!---LeetCode Topics End-->
