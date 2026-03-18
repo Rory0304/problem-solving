@@ -63,5 +63,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [0118-pascals-triangle](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
