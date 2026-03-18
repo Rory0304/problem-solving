@@ -51,4 +51,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0729-my-calendar-i](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
