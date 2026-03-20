@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0707-design-linked-list](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 | [0729-my-calendar-i](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Medium/0729-my-calendar-i/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -73,4 +74,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/Rory0304/problem-solving/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
